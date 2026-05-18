@@ -1,0 +1,7 @@
+dataset/
+*.csv
+*.zip
+.idea/
+__pycache__/
+venv/
+*.pyc
