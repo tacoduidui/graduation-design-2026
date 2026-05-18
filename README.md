@@ -1,6 +1,6 @@
 本项目是基于图结构提示工程的大模型恶意 URL 对抗检测系统，基于 Python 实现了恶意 URL 的检测与对抗性验证。系统支持数据集加载、模型调用、对抗样本生成、检测结果评估与日志记录，可用于网络安全威胁检测、恶意 URL 识别与鲁棒性验证等场景。
 ## 项目目录结构
-"""├── .gitattributes
+'''├── .gitattributes
 ├── .gitignore.txt
 ├── ai_responses.log
 ├── batch_temp_1.jsonl
@@ -83,4 +83,4 @@
 │   ├── result_plain_adv.csv
 │   ├── result_plain_adv.csv.temp.csv
 ├── result_plain.txt
-├── _batch_task_1.jsonl"""
+├── _batch_task_1.jsonl'''
